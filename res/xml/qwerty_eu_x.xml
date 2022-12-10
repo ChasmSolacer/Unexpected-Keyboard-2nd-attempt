@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<keyboard>
+  <row height="0.9">
+    <key key0="1" key1="`" key2="~" key3="!" key4="esc"/>
+    <key key0="2" key1="²" key2="≠" key3="\@" key4="¤"/>
+    <key key0="3" key1="³" key2="£" key3="\#" key4="ë"/>
+    <key key0="4" key1="¢" key2="ï" key3="$" key4="ŗ"/>
+    <key key0="5" key1="€" key2="‰" key3="%" key4="‱"/>
+    <key key0="6" key1="½" key2="∧" key3="^" key4="ø"/>
+    <key key0="7" key1="§" key2="õ" key3="&amp;" key4="ů"/>
+    <key key0="8" key1="·" key2="ő" key3="*" key4="ô"/>
+    <key key0="9" key1="«" key2="±" key3="(" key4=")"/>
+    <key key0="0" key1="»" key2="f11_placeholder" key3="°" key4="f12_placeholder"/>
+  </row>
+  <row>
+    <key key0="q" key1="ă" key2="å" key3="ã" key4="ă"/>
+    <key key0="w" key1="ė" key2="ẽ" key3="ā" key4="ŵ"/>
+    <key key0="e" key1="é" key2="è" key3="ê" key4="ę"/>
+    <key key0="r" key1="ŕ" key2="ě" key3="ĩ" key4="ř"/>
+    <key key0="t" key1="ť" key2="ţ" key3="ű" key4="ū"/>
+    <key key0="y" key1="ÿ" key2="ī" key3="ù" key4="ý"/>
+    <key key0="u" key1="ü" key2="û" key3="ú" key4="ų"/>
+    <key key0="i" key1="ı" key2="í" key3="ǐ" key4="î"/>
+    <key key0="o" key1="ö" key2="ő" key3="ō" key4="ó"/>
+    <key key0="p" key1="+" key2="=" key3="-" key4="_"/>
+  </row>
+  <row>
+    <key key0="a" key1="á" key2="à" key3="ä" key4="ą"/>
+    <key key0="s" key1="tab" key2="ß" key3="š" key4="ś"/>
+    <key key0="d" key1="ì" key2="ð" key3="ď" key4="đ"/>
+    <key key0="f" key1="þ" key2="ŧ" key3="ĝ" key4="ḟ"/>
+    <key key0="g" key1="ǧ" key2="ġ" key3="ģ" key4="ğ"/>
+    <key key0="h" key1="ĳ" key2="ĥ" key3="ȟ" key4="ħ"/>
+    <key key0="j" key1="æ" key2="œ" key3="į" key4="ɉ"/>
+    <key key0="k" key1="ò" key2="ņ" key3="ḱ" key4="ķ"/>
+    <key key0="l" key1="ĺ" key2="ľ" key3="ļ" key4="ł"/>
+    <key key0=";"  key1=":" key2="|" key3="\\" key4="¦"/>
+  </row>
+  <row>
+    <key width="1.5" key0="shift" key1="superscript" key2="capslock" key3="subscript" key4="ordinal"/>
+    <key key0="z" key1="â" key2="ē" key3="ž" key4="ż"/>
+    <key key0="x" key1="×" key2="ƶ" key3="ẑ" key4="ź"/>
+    <key key0="c" key1="ç" key2="č" key3="ĉ" key4="ć"/>
+    <key key0="v" key1="[" key2="]" key3="{" key4="}"/>
+    <key key0="b" key1="ŀ" key2="ň" key3="ş" key4="ƀ"/>
+    <key key0="n" key1="'" key2="ñ" key3="&quot;" key4="ń"/>
+    <key key0="m" key1="&lt;" key2="&gt;" key3="," key4="."/>
+    <key width="1.5" key0="backspace" key1="\?" key2="delete" key3="/" key4="ŋ"/>
+  </row>
+</keyboard>

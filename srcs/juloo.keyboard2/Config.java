@@ -1,6 +1,5 @@
 package juloo.keyboard2;
 
-import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.content.res.Resources;
@@ -9,7 +8,6 @@ import android.util.DisplayMetrics;
 import android.util.TypedValue;
 import android.view.KeyEvent;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.Set;
 
 final class Config
@@ -275,6 +273,7 @@ final class Config
       case "qwerty_pt": id = R.xml.qwerty_pt; break;
       case "qwerty_sv_se": id = R.xml.qwerty_sv_se; break;
       case "qwerty_tr": id = R.xml.qwerty_tr; break;
+      case "qwerty_eu_x": id = R.xml.qwerty_eu_x; break;
       case "qwertz": id = R.xml.qwertz; break;
       case "qwertz_cs": id = R.xml.qwertz_cs; break;
       case "qwertz_de": id = R.xml.qwertz_de; break;

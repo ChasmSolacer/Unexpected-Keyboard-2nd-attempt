@@ -14,6 +14,7 @@
     <item>qwerty_hu</item>
     <item>qwerty_tr</item>
     <item>qwerty_pl</item>
+    <item>qwerty_eu_x</item>
     <item>ru_jcuken</item>
     <item>qwertz</item>
     <item>qwertz_cs</item>
@@ -43,6 +44,7 @@
     <item>QWERTY (Hungarian)</item>
     <item>QWERTY (Türkçe)</item>
     <item>QWERTY (Polski)</item>
+    <item>QWERTY (European abundant)</item>
     <item>ЙЦУКЕН (Русский)</item>
     <item>QWERTZ</item>
     <item>QWERTZ (Czech)</item>

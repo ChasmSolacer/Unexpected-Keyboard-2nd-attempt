@@ -303,6 +303,7 @@ final class Config
       case "qwerty_sv_se": id = R.xml.qwerty_sv_se; break;
       case "qwerty_tr": id = R.xml.qwerty_tr; break;
       case "qwerty_pl": id = R.xml.qwerty_pl; break;
+      case "qwerty_eu_x": id = R.xml.qwerty_eu_x; break;
       case "qwertz": id = R.xml.qwertz; break;
       case "qwertz_cs": id = R.xml.qwertz_cs; break;
       case "qwertz_de": id = R.xml.qwertz_de; break;
